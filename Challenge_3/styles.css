@@ -1,0 +1,9 @@
+p {
+    width: 200px;
+    padding: 10px 20px 10px 20px;
+    border: 2px dotted white;
+    color: white;
+    background-color: darkgray;
+    margin: 30px;
+    text-align: center;
+}
