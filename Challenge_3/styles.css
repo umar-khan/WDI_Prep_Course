@@ -7,3 +7,14 @@ p {
     margin: 30px;
     text-align: center;
 }
+
+#padding {
+    height: 250px;
+    padding: 15px;
+    background-color: lightgray;
+}
+
+#border {
+    height: 250px;
+    border: 15px solid lightgray;
+}
